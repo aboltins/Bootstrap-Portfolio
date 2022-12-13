@@ -49,28 +49,28 @@
 }
 
 .card1 {
-    background-image: url(/images/horiseon-screenshot.png);
+    background-image: url(../images/horiseon-screenshot.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .card2 {
-    background-image: url(/images/portfolio-screenshot.png);
+    background-image: url(../images/portfolio-screenshot.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .card3 {
-    background-image: url(/images/study-guide-screenshot.png);
+    background-image: url(../images/study-guide-screenshot.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .card4 {
-    background-image: url(/images/placeholder.svg);
+    background-image: url(../images/placeholder.svg);
     background-position: top;
     background-size: cover;
     background-repeat: no-repeat;
