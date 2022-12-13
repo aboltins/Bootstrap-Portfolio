@@ -33,4 +33,14 @@
 
 /* Main */
 
-/*  */
+/* Work section */
+.work-container {
+    max-width: 90%;
+}
+.work-container h2 {
+    text-align: center;
+    padding-bottom: 20px;
+    margin: 30px !important;
+}
+
+
