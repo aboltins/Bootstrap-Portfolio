@@ -80,7 +80,7 @@
 .card-title, .card-subtitle, .card-text {
     text-align: center !important;
     background-color: white;
-    min-width: 300px;
+    /* min-width: 300px; */
     color: black !important;
     border: solid red;
     border-width: 5px;
@@ -103,6 +103,9 @@
 .card-link span {
     padding-left: 23px;
 }
+
+/* Skills */
+
 
 
 
