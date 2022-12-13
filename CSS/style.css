@@ -85,6 +85,7 @@
     border: solid red;
     border-width: 5px;
     padding: 10px;
+    font-weight: bolder !important;
 }
 
 /* targets card links */
@@ -95,7 +96,12 @@
     color: whitesmoke !important;
     border: solid red;
     border-width: 6px;
-    padding-right: 30px; 
+    padding-right: 30px;
+    font-weight: bolder !important;
+}
+
+.card-link span {
+    padding-left: 23px;
 }
 
 
