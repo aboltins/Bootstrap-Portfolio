@@ -39,13 +39,13 @@
 }
 .work-container h2 {
     text-align: center;
-    padding-bottom: 20px;
     margin: 30px !important;
+    padding: 20px;
 }
 
 /* cards */
 .card {
-    height: 25vh;
+
 }
 
 .card1 {
@@ -75,6 +75,29 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+/* targets headings, subtitles and card text in cards */
+.card-title, .card-subtitle, .card-text {
+    text-align: center !important;
+    background-color: white;
+    min-width: 300px;
+    color: black !important;
+    border: solid red;
+    border-width: 5px;
+    padding: 10px;
+}
+
+/* targets card links */
+.card-link {
+    text-align: center !important;
+    background-color: black;
+    min-width: 300px;
+    color: whitesmoke !important;
+    border: solid red;
+    border-width: 6px;
+    padding-right: 30px; 
+}
+
 
 
 
