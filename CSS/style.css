@@ -10,13 +10,15 @@
     margin-right: 50px;
 }
 
-/* Hero Section */ 
+/* Hero Section */
 
+/* styles entire hero jumbotron */
 .jumbotron {
     padding-top: 1vh;
     padding-bottom: 2vh;
 }
 
+/* styles both rows of hero content */
 .hero-content {
     display: flex;
     justify-content: center;
@@ -28,3 +30,7 @@
     padding-bottom: 1vh;
 
 }
+
+/* Main */
+
+/*  */
