@@ -102,8 +102,13 @@
 /* Skills */
 
 .skills-row {
-    margin-left: 1.5%;
+    margin-left: 7%;
 }
+
+.left-skills {
+    padding-bottom: 20px;
+}
+
 #skills h2 {
     padding-top: 15px;
     padding-bottom: 30px;
@@ -119,7 +124,7 @@
 
 /* About section */
 
-.about p {
+#about p {
     font-size: 18px;
 }
 
