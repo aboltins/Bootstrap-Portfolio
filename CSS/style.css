@@ -6,8 +6,10 @@
     margin-bottom: 0px !;
 }
 
+/* targets anchor tags in the nav bar */
 .navbar-nav li a {
-    margin-right: 50px;
+    margin-right: 23px;
+    font-weight: bold;
 }
 
 /* Hero Section */
@@ -37,6 +39,7 @@
 .work-container {
     max-width: 85%;
 }
+
 .work-container h2 {
     text-align: center;
     margin: 30px !important;
@@ -73,7 +76,9 @@
 }
 
 /* targets headings, subtitles and card text in cards */
-.card-title, .card-subtitle, .card-text {
+.card-title,
+.card-subtitle,
+.card-text {
     text-align: center !important;
     background-color: white;
     color: black !important;
@@ -119,7 +124,7 @@
     padding-top: 103px;
     padding-bottom: 30px;
     text-align: center;
-    
+
 }
 
 /* About section */
@@ -156,14 +161,14 @@
     gap: 30px;
 }
 
+/* sets bold font and no text-decoration when hovering over contank link anchor tags */
 .contact-links a:hover {
     font-weight: bold;
     text-decoration: none;
-    /* padding-right: 20px; */
 }
 
+/* sets box shadow on contact link buttons when hovering over */
 .contact-links a button:hover {
     box-shadow: 5px 5px blue;
 
 }
-
