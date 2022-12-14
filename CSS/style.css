@@ -44,10 +44,6 @@
 }
 
 /* cards */
-.card {
-
-}
-
 .card1 {
     background-image: url(../images/horiseon-screenshot.png);
     background-position: center;
@@ -56,14 +52,14 @@
 }
 
 .card2 {
-    background-image: url(/images/portfolio-screenshot.png);
+    background-image: url(../images/portfolio-screenshot.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .card3 {
-    background-image: url(images/study-guide-screenshot.png);
+    background-image: url(../images/portfolio-screenshot.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -80,7 +76,6 @@
 .card-title, .card-subtitle, .card-text {
     text-align: center !important;
     background-color: white;
-    /* min-width: 300px; */
     color: black !important;
     border: solid red;
     border-width: 5px;
@@ -106,7 +101,23 @@
 
 /* Skills */
 
+.skills-row {
+    margin-left: 1.5%;
+}
+#skills h2 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
 
+.pop-up {
+    padding-top: 103px;
+    padding-bottom: 30px;
+    text-align: center;
+    
+}
+
+/* Aboout section */
 
 
 
