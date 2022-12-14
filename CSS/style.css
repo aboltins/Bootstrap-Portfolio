@@ -124,7 +124,9 @@
 
 /* About section */
 
-
+#about h2 {
+    padding-right: 40px;
+}
 
 #about p {
     font-size: 18px;
