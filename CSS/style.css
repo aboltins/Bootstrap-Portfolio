@@ -102,7 +102,7 @@
 /* Skills */
 
 .skills-row {
-    margin-left: 9%;
+    margin-left: 7%;
 }
 
 .left-skills {
@@ -124,7 +124,7 @@
 
 /* About section */
 
-/* target about heading */
+/* targets about heading */
 #about h2 {
     padding-right: 40px;
 }
@@ -132,10 +132,38 @@
 /* targets about paragraph */
 #about p {
     font-size: 18px;
-    padding-right: 40px;
+    padding-right: 45px;
     text-align: center;
 }
 
+/* Footer Section */
 
+#contact {
+    padding-top: 7vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 20px;
+}
 
+#contact h2 {
+    padding-bottom: 30px;
+}
+
+.contact-links {
+    display: flex;
+    gap: 30px;
+}
+
+.contact-links a:hover {
+    font-weight: bold;
+    text-decoration: none;
+    /* padding-right: 20px; */
+}
+
+.contact-links a button:hover {
+    box-shadow: 5px 5px blue;
+
+}
 
