@@ -51,7 +51,7 @@ Deploy your new Bootstrap-powered portfolio to GitHub Pages.
 
 ## Screenshot 
 
-![Screenshot of Horiseon index page](/images/bootstrap-portfolio-screenshot.png"Arturs Porfolio")
+![Screenshot of Arturs Bootstrap Portfolio](/images/bootstrap-portfolio-screenshot.png "Bootstrap Portfolio Screenshot")
 
 ## Installation
 
