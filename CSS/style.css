@@ -105,7 +105,7 @@
     margin-left: 1.5%;
 }
 #skills h2 {
-    padding-top: 30px;
+    padding-top: 15px;
     padding-bottom: 30px;
     text-align: center;
 }
@@ -117,7 +117,11 @@
     
 }
 
-/* Aboout section */
+/* About section */
+
+.about p {
+    font-size: 18px;
+}
 
 
 
