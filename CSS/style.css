@@ -158,7 +158,7 @@
 
 .contact-links {
     display: flex;
-    gap: 30px;
+    gap: 18px;
 }
 
 /* sets bold font and no text-decoration when hovering over contank link anchor tags */
@@ -168,9 +168,9 @@
 }
 
 .contact-links a button {
-    background-color: rgb(174, 173, 173);
+    background-color: lightcyan;
     color: rgb(26, 26, 26);
-    font-size: 18px;
+    font-size: 14px;
 }
 
 /* sets box shadow on contact link buttons when hovering over */
