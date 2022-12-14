@@ -62,7 +62,7 @@
 }
 
 .card3 {
-    background-image: url(../images/portfolio-screenshot.png);
+    background-image: url(../images/study-guide-screenshot.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -167,8 +167,14 @@
     text-decoration: none;
 }
 
+.contact-links a button {
+    background-color: rgb(174, 173, 173);
+    color: rgb(26, 26, 26);
+    font-size: 18px;
+}
+
 /* sets box shadow on contact link buttons when hovering over */
 .contact-links a button:hover {
     box-shadow: 5px 5px blue;
-
 }
+
