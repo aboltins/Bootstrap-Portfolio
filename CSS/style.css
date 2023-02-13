@@ -80,9 +80,9 @@
 .card-subtitle,
 .card-text {
     text-align: center !important;
-    background-color: white;
+    background-color:  rgb(174, 173, 173) !important;
     color: black !important;
-    border: solid red;
+    border: solid rgb(16, 16, 16);
     border-width: 5px;
     padding: 10px;
     font-weight: bolder !important;
@@ -94,7 +94,7 @@
     background-color: black;
     min-width: 300px;
     color: whitesmoke !important;
-    border: solid red;
+    border: solid rgb(59, 59, 59);
     border-width: 6px;
     padding-right: 30px;
     font-weight: bolder !important;
